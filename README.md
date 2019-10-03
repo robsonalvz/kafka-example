@@ -1,5 +1,7 @@
 # Getting started
+
 Python and Node applications for a simple example using Apache Kafka
+
 ## Installation
 
 Please check the official Apache Kafka installation guide for server requirements before you start. [Official Documentation](https://kafka.apache.org/quickstart)
@@ -53,7 +55,7 @@ Start the local producer server
     python producer.py
 ```
 
-You can now access start consumers, open each of consumers in different terminals 
+You can now access consumers, open each of consumers in different terminals 
 
 ````
 node consumer-avg.js
