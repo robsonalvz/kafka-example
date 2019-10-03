@@ -52,7 +52,7 @@ sudo pip install -r requirements.txt
 
 Start the local producer server
 ```
-    python producer.py
+python producer.py
 ```
 
 You can now access consumers, open each of consumers in different terminals 
