@@ -4,7 +4,7 @@ Python and Node applications for a simple example using Apache Kafka
 
 ## Installation
 
-Please check the official Apache Kafka installation guide for server requirements before you start. [Official Documentation](https://kafka.apache.org/quickstart)
+Please check the official Apache Kafka installation guide before you start. [Official Documentation](https://kafka.apache.org/quickstart)
 
 ### Requirements
 
