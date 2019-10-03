@@ -1,0 +1,9 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "no-kafka": "^3.4.3"
+  }
+}
